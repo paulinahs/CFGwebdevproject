@@ -159,3 +159,39 @@ padding-top: 5rem;
   margin-top: 2rem;
   margin-bottom: 15px;
 }
+
+
+/*tickets*/
+.texttickets{
+  padding: 3rem 0;
+}
+
+
+.cities{
+  justify-content: center;
+
+  padding-bottom: 4rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+
+
+.testimonialstitle{
+  padding-bottom: 2rem;
+justify-content: center;
+}
+
+.cardcontainer{
+  justify-content: center;
+  padding: 2rem 5rem;
+  background-color: #fcdfb3;
+}
+
+.card{
+  justify-content: center;
+}
+
+.card-img-top{
+  height: 50%;
+}
