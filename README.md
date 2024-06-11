@@ -71,7 +71,6 @@ To give consistency to the website I did use the same structure for the Cities p
 
 ## Author
 
- - [Creative Portfolio](https://bypaulinah.myportfolio.com/)
  - [@by.paulina.h](https://www.instagram.com/by.paulina.h)
  - [@paulinacodes](https://www.instagram.com/paulinacodes)
 
